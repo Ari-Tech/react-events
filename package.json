@@ -1,0 +1,27 @@
+{
+  "name": "react-events",
+  "version": "1.0.0",
+  "description": "React JS Events Handling",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^16.1.1",
+    "react-dom": "^16.1.1",
+    "react-scripts": "1.0.17"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ari-Tech/react-events.git"
+  },
+  "author": "Arindam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ari-Tech/react-events/issues"
+  },
+  "homepage": "https://github.com/Ari-Tech/react-events#readme"
+}
